@@ -1,4 +1,4 @@
-near-blank-project
+near-Outsourcing-Project
 ==================
 
 This app was initialized with [create-near-app]
