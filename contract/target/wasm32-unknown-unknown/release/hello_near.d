@@ -1,1 +1,0 @@
-/home/l_bt/Outsourcing/contract/target/wasm32-unknown-unknown/release/hello_near.wasm: /home/l_bt/Outsourcing/contract/src/client.rs /home/l_bt/Outsourcing/contract/src/job.rs /home/l_bt/Outsourcing/contract/src/lib.rs /home/l_bt/Outsourcing/contract/src/user.rs
